@@ -1,0 +1,113 @@
+NetApp
+Active IQ
+Dashboard
++ Add New Dashboard
+Reports
+Wellness Review Subscription
+Capacity and Efficiency
+FabricPool
+Support Offerings
+Health Check
+Config Drift
+Cloud Ready Workloads
+NetApp Sales Tools
+Discovery Dashboard
+Asset Insights
+Fusion
+Tech Mahindra Ltd.
+Choose a customer
+Search
+Support
+Quick Links
+English
+Welcome,
+PM0C89634
+Sign Out
+Wellness
+Actions
+Risks
+View All Actions
+Performance &
+Efficiency
+No Pending Actions
+Availability &
+Protection
+3
+Actions
+Capacity
+  No Pending Actions
+Configuration
+  4
+Actions
+Security
+  3
+Actions
+Renewals
+  9
+Actions
+Inventory
+View All Systems
+Overview
+ONTAP
+StorageGRID
+SolidFire
+E-Series
+Cloud Volumes O…
+1/2
+102
+Systems
+12
+Clusters
+14
+GRIDs
+28
+Sites
+Planning
+7
+Capacity Additions
+9
+Renewals
+2
+Cloud Ready Workloads
+Upgrades
+Upgrades
+Current Interoperability
+3
+Actions
+250
+Issues to be fixed
+Valuable Insights
+24
+Support cases opened + resolved
+44
+Software upgrades completed
+8
+Unique applications detected
+0.88 PB
+Storage efficiency savings (ONTAP 9.1+)
+36
+Days till earliest contract renewal
+Proactive risk notifications.
+884
+Risks checked
+359
+Risks mitigated
+Performance & Efficiency
+6
+Availability & Protection
+94
+Capacity
+30
+Configuration
+230
+Security
+114
+Report is based on value for the last one year (Mar 2020-Feb 2021)
+Supported Browsers:
+    Chrome v.60+
+     Firefox v.55+
+     Safari v.11+
+     Edge Limited
+   © 2021 NetApp
+Chrome
+Resources
